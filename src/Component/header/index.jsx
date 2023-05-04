@@ -62,7 +62,7 @@ const Header = () => {
                                             </div>
                                         </div>
                                         <div>
-                                            <a className="hoverItem">812 GTS</a>
+                                            <a className="hoverItem">812 GTB</a>
                                             <div className="showContent absolute top-0 right-0 w-[50%] h-[100vh]">
                                                 <img src="/assets/sales1.png" className="w-[100%] h-[100%]" />
                                             </div>
